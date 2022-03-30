@@ -1,0 +1,3 @@
+go gin > for handler http request || https://github.com/gin-gonic/gin
+go orm > for accesing database || https://gorm.io/docs/connecting_to_the_database.html
+
